@@ -1,0 +1,2 @@
+Zadania: 1,2,3,4,5,7
+Link github: https://github.com/apostolski/AiSD_Jakub_Apostolski/tree/master/lista1
